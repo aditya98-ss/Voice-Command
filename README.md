@@ -1,5 +1,5 @@
-# Voice command A.I.
-This software is made in Python. This is voice command A.I. which give you output according to your predefined codes.
+# Voice command
+This software is made in Python. This is voice command which give you output according to your predefined codes.
 
 ## Installation
 $	Install python3.x in your system
