@@ -11,7 +11,6 @@ pip3 install -r requirements.txt
 
 
 ### Note :-
-*	If your are not able download pyaudio then download pyaudio file from [here](https://www.lfd.uci.edu/%7Egohlke/pythonlibs/)
 *	Make sure device is connected to internet while executing this code
 
 ## Execution
