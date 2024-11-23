@@ -32,7 +32,7 @@ def gu(te):
 			else:
 				y=y
 	r=te
-	p = open("data.ar","r").read().split("\n")
+	p = open("details.ar","r").read().split("\n")
 	for i in p:
 		if (i.split(":")[0] in r):
 			cr = i.split(":")[1]
