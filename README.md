@@ -1,5 +1,5 @@
 # Voice command
-This software is made in Python. This is voice command which give you output according to your predefined codes.
+An AI Voice Command System built using Python enables users to interact with devices, applications, or services through spoken language
 
 ## Installation
 $	Install python3.x in your system
